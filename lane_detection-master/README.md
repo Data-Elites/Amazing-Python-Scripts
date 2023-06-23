@@ -1,2 +1,2 @@
 # lane_detection
-OpenCV Lane Detection using Python
+This project uses OpenCV to detect the lanes on the road.
